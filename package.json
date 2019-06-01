@@ -1,0 +1,9 @@
+{
+  "name": "next-svgr",
+  "version": "0.0.1",
+  "description": "Plugin for NextJS to use SVG with svgr.",
+  "main": "index.js",
+  "repository": "git@github.com:Anomen/next-svgr.git",
+  "author": "Kevin Vicrey <kevin.vicrey@nexu.org>",
+  "license": "MIT"
+}
