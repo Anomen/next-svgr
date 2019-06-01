@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:Anomen/next-svgr.git",
   "author": "Kevin Vicrey <kevin.vicrey@nexu.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@svgr/webpack": "^4.3.0"
+  }
 }
