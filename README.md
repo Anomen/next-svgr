@@ -1,4 +1,9 @@
-# next-svgr
+# :rocket: next-svgr
+
+[![License](https://img.shields.io/npm/l/@svgr/core.svg)](https://github.com/smooth-code/svgr/blob/master/LICENSE)
+[![npm package](https://img.shields.io/npm/v/next-svgr/latest.svg)](https://www.npmjs.com/package/next-svgr)
+[![Dependencies](https://img.shields.io/david/anomen/next-svgr.svg)](https://david-dm.org/anomen/next-svgr)
+[![DevDependencies](https://img.shields.io/david/dev/anomen/next-svgr.svg)](https://david-dm.org/anomen/next-svgr?type=dev)
 
 Plugin for Next to automatically be able to transform `svg` files into components using the excellent [`svgr`](https://github.com/smooth-code/svgr) library.
 
