@@ -5,6 +5,7 @@ Plugin for Next to automatically be able to transform `svg` files into component
 ## Table of contents
 
 - [Installation](#installation)
+- [Usage](#usage)
 
 ## Installation
 
@@ -55,3 +56,5 @@ export default () => (
   </div>
 );
 ```
+
+Please check the [documentation of svgr for more examples](https://github.com/smooth-code/svgr).
